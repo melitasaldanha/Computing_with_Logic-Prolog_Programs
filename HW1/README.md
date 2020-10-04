@@ -1,4 +1,4 @@
-The folder contains the following programs:
+This folder contains the following programs:
 1. Splitting a list into 2 lists with odd and even elements
 2. Delete an element from a list non-deterministically
 3. Find if list L1 is a sublist of list L2
